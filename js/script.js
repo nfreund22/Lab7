@@ -8,5 +8,5 @@ function init(){
   
   document.getElementById("entrybutton").addEventListener("click", myFunction());
 
-
+}
 window.addEventListener('load', init);
